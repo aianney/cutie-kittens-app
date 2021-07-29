@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cutie-kittens-app/static/css/main.ba093f8a.chunk.css",
+    "main.js": "/cutie-kittens-app/static/js/main.3494645f.chunk.js",
+    "main.js.map": "/cutie-kittens-app/static/js/main.3494645f.chunk.js.map",
+    "runtime-main.js": "/cutie-kittens-app/static/js/runtime-main.076a47e0.js",
+    "runtime-main.js.map": "/cutie-kittens-app/static/js/runtime-main.076a47e0.js.map",
+    "static/js/2.a2827632.chunk.js": "/cutie-kittens-app/static/js/2.a2827632.chunk.js",
+    "static/js/2.a2827632.chunk.js.map": "/cutie-kittens-app/static/js/2.a2827632.chunk.js.map",
+    "static/js/3.35d5417c.chunk.js": "/cutie-kittens-app/static/js/3.35d5417c.chunk.js",
+    "static/js/3.35d5417c.chunk.js.map": "/cutie-kittens-app/static/js/3.35d5417c.chunk.js.map",
+    "index.html": "/cutie-kittens-app/index.html",
+    "static/css/main.ba093f8a.chunk.css.map": "/cutie-kittens-app/static/css/main.ba093f8a.chunk.css.map",
+    "static/js/2.a2827632.chunk.js.LICENSE.txt": "/cutie-kittens-app/static/js/2.a2827632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076a47e0.js",
+    "static/js/2.a2827632.chunk.js",
+    "static/css/main.ba093f8a.chunk.css",
+    "static/js/main.3494645f.chunk.js"
+  ]
+}
